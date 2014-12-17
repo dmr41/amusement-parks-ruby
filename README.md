@@ -34,7 +34,7 @@ So given the following array:
 ```
 
 Your code should produce the following hash:
-
+id_hash
 ```ruby
 {
   546 => {
@@ -84,7 +84,7 @@ So given the following array:
 ```
 
 Your code should produce the following hash:
-
+country_hash
 ```ruby
 {
   "Canada" => [
@@ -153,7 +153,7 @@ Given the following array:
 ```
 
 Your code should return the following hash:
-
+state_country_hash
 ```ruby
 {
   "Alberta, Canada" => [
@@ -192,7 +192,3 @@ Your code should return the following hash:
   ]
 }
 ```
-
-## Challenge #4 - Run your code against the YML file
-
-Run your code against the data in `data/amusement_parks.yml`.
